@@ -273,8 +273,9 @@ main {
 .deal-image {
   display: block;
   width: 180px;
-  height: auto;
+  height: 130px;
   object-fit: contain;
+  margin-top: 10px;
 }
 
 .deal-grid {
